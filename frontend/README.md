@@ -1,16 +1,74 @@
-# React + Vite
+# 🎨 CareerPilot Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 🚀 Modern frontend for CareerPilot — an AI-powered interview and career strategy platform.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Overview
 
-## React Compiler
+This frontend provides a clean and responsive interface to:
+- Analyze job descriptions  
+- Generate AI-based interview strategies  
+- Track preparation progress  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Built with focus on performance, scalability, and user experience.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- React.js (Vite)
+- Axios
+- Tailwind CSS / Custom CSS
+
+---
+
+## ⚙️ Getting Started
+
+### 📦 Install dependencies
+npm install
+
+### ▶️ Run development server
+npm run dev
+
+App runs on:
+http://localhost:5173
+
+---
+
+## 🔗 Backend Connection
+
+Make sure backend is running on:
+http://localhost:3000
+
+---
+
+## 📁 Project Structure
+
+src/
+├── features/
+├── pages/
+├── services/
+├── hooks/
+├── context/
+
+---
+
+## ✨ Key Features
+
+- Authentication UI (Login / Register)  
+- Job Description Input  
+- AI Strategy Generator  
+- Match Score Display  
+- Recent Plans Dashboard  
+
+---
+
+## 🎯 Highlights
+
+- Clean & modern UI  
+- Responsive design  
+- Fast performance (Vite)  
+- Scalable structure  
+
+---
