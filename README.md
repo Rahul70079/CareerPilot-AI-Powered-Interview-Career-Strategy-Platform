@@ -15,8 +15,7 @@ It provides personalized interview questions, AI feedback, resume analysis, and 
 
 ## 🌐 Live Demo
 
- https://career-pilot-ai-powered-interview-career-strategy-kqrt69xvj.vercel.app/login
-
+https://career-pilot-ai-powered-interview-career-strategy-kqrt69xvj.vercel.app/
 ---
 
 ## 📸 Screenshots
