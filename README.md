@@ -13,6 +13,29 @@ It provides personalized interview questions, AI feedback, resume analysis, and 
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try it here:**  
+👉 https://your-live-demo-link.com
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](https://via.placeholder.com/1000x500?text=Home+Page)
+
+### 🤖 AI Interview Dashboard
+![Interview](https://via.placeholder.com/1000x500?text=AI+Interview+Dashboard)
+
+### 📄 Resume Analyzer
+![Resume](https://via.placeholder.com/1000x500?text=Resume+Analyzer)
+
+### 🎯 Career Roadmap
+![Roadmap](https://via.placeholder.com/1000x500?text=Career+Roadmap)
+
+---
+
 ## ✨ Features
 
 - 🤖 AI Interview Preparation (role-based questions + AI feedback)
@@ -103,5 +126,4 @@ git push origin feature/your-feature
 
 Rahul Kumar
 GitHub: https://github.com/your-username
-
 LinkedIn: https://linkedin.com/in/your-profile
