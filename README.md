@@ -83,7 +83,7 @@ cd CareerPilot
 
 cd frontend
 npm install
-npm start
+npm run dev
 
 Backend:
 
@@ -123,7 +123,5 @@ git commit -m "Add feature"
 git push origin feature/your-feature
 
 🧑‍💻 Author
-
-Rahul Kumar
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://github.com/Rahul70079
+LinkedIn: https://www.linkedin.com/in/rahul-kumar7079/
