@@ -95,7 +95,7 @@ npm run dev
 3. Environment Variables
 
 Create a .env file in backend folder:
-PORT=5000
+PORT=3000
 MONGO_URI=your_mongodb_connection
 OPENAI_API_KEY=your_api_key
 JWT_SECRET=your_secret
