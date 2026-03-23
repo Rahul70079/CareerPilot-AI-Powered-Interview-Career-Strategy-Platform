@@ -55,3 +55,53 @@ Client (React) → API (Express.js) → Backend Logic → MongoDB → AI Service
 ```bash
 git clone https://github.com/Rahul7007/Car9eerPilot.git
 cd CareerPilot
+
+ 2. Install Dependencies
+
+cd frontend
+npm install
+npm start
+
+Backend:
+
+cd backend
+npm install
+npm run dev
+
+3. Environment Variables
+
+Create a .env file in backend folder:
+PORT=5000
+MONGO_URI=your_mongodb_connection
+OPENAI_API_KEY=your_api_key
+JWT_SECRET=your_secret
+
+📂 Project Structure
+
+CareerPilot/
+│
+├── frontend/
+├── backend/
+├── models/
+├── routes/
+├── controllers/
+├── utils/
+└── README.md
+
+🚀 Future Plans
+Voice-based mock interviews
+Advanced AI feedback
+Multi-language support
+Mobile app
+
+🤝 Contributing
+git checkout -b feature/your-feature
+git commit -m "Add feature"
+git push origin feature/your-feature
+
+🧑‍💻 Author
+
+Rahul Kumar
+GitHub: https://github.com/your-username
+
+LinkedIn: https://linkedin.com/in/your-profile
